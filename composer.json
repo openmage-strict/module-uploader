@@ -1,0 +1,7 @@
+{
+    "name": "openmage-strict/module-uploader",
+    "type": "magento-module",
+    "require": {
+        "openmage-strict/module-core": "*"
+    }
+}

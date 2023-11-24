@@ -1,0 +1,3 @@
+src/app/code/core/Mage/Uploader/ 				app/code/core/Mage/Uploader/
+src/app/etc/modules/Mage_Admin.xml 				app/etc/modules/Mage_Admin.xml
+src/app/locale/en_US/Mage_Admin.csv 			app/locale/en_US/Mage_Admin.csv
